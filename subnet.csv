@@ -1,3 +1,5 @@
+31.76.56.0/24,FI,,Helsinki,
+31.76.58.0/24,FI,,Helsinki,
 31.77.194.0/24,FI,,Helsinki,
 31.77.195.0/24,FI,,Helsinki,
 2.26.66.0/24,FI,,Helsinki,
@@ -15,14 +17,14 @@
 144.31.185.0/24,FI,,Helsinki,
 178.236.244.0/24,FI,,Helsinki,
 2a01:ecc0:6000::/36,FI,,Helsinki,
-
 2.26.121.0/24,RU,,Moscow,
 87.251.78.0/24,RU,,Moscow,
 91.209.135.0/24,RU,,Moscow,
 176.126.103.0/24,RU,,Moscow,
 178.236.245.0/24,RU,,Moscow,
 217.114.43.0/24,RU,,Moscow,
-
+31.76.57.0/24,DE,,Frankfurt,
+31.76.59.0/24,DE,,Frankfurt,
 31.77.192.0/24,DE,,Frankfurt,
 31.77.193.0/24,DE,,Frankfurt,
 2.26.64.0/24,DE,,Frankfurt,
